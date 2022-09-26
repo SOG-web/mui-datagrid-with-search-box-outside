@@ -1,0 +1,26 @@
+{
+  "dependencies": {
+    "@emotion/react": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "latest",
+    "@mui/material": "latest",
+    "@mui/x-data-grid": "latest",
+    "@mui/x-data-grid-generator": "latest",
+    "@mui/x-data-grid-pro": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "typescript": "latest"
+  },
+  "description": "https://github.com/mui/mui-x/blob/v5.17.4/docs/data/data-grid/filtering/QuickFilteringCustomizedGrid.tsx",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "main": "index.tsx",
+  "scripts": {
+    "start": "react-scripts start"
+  },
+  "keywords": [],
+  "name": "mui-datagrid-with-search-box-outside"
+}
